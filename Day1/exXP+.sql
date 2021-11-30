@@ -19,6 +19,6 @@
 -- SELECT first_name , last_name FROM student where first_name ilike '%a%' offset 2
 --  SELECT first_name , last_name FROM student where id=1 or id=3
 -- SELECT * FROM student where birth_date >= date('1/01/2000') 
-
+-- SELECT * FROM student ORDER BY last_name ASC limit 4
 
 
